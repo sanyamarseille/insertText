@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "hokan",
+    "version": "0.1.0",
+    "description": "hokan",
+    "author": "Sanya Marseille",
+    "background": {
+        "service_worker": "scripts/background.js"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting",
+        "contextMenus"
+    ]
+}

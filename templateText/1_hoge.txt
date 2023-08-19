@@ -1,0 +1,3 @@
+シーン1
+before: hoge
+after: fuga
